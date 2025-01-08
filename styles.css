@@ -1,1 +1,13 @@
-/* your code */
+th,td{
+	padding:10px;
+	text-align:center;
+}
+table,th,td{
+	width:90%;
+	border:1px solid black;
+	border-collapse:collapse;
+}
+thead>tr{
+	background-color:navy;
+	color:white;
+}
